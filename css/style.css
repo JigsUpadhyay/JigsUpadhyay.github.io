@@ -36,6 +36,9 @@ header{
 	border-bottom: 1px solid transparent;
 	transition: all .40s ease;
 }
+.logo{
+	font-size: 1.5rem;
+}
 .logo img{
 	width: 135px;
 	height: auto;

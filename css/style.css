@@ -396,6 +396,7 @@ form textarea{
 @media (max-width: 830px){
 	#menu-icon{
 		display: block;
+		
 	}
 	.navbar{
 		position: absolute;
@@ -419,5 +420,12 @@ form textarea{
 	:root{
 		--h1-font: 3.7rem;
 	  --h2-font: 2.7rem;
+	}
+}
+@media(max-width: 320px) {
+	.home{
+		width: 115%;
+		background-size: cover;
+		background-position: center 25%;
 	}
 }

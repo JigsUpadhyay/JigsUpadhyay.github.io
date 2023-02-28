@@ -73,7 +73,7 @@ section{
 	position: relative;
 	background: url(../img/background.jpg);
 	background-size: cover;
-	background-position: center;
+	background-position: center 25%;
 	display: flex;
 	align-items: center;
 	justify-content: flex-start;

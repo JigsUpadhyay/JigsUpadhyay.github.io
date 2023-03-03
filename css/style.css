@@ -182,6 +182,7 @@ header.sticky{
 	margin-top: 5rem;
 }
 .box{
+	
 	padding: 45px;
 	background: #12141c;
 	border-top: 5px solid transparent;
@@ -196,9 +197,11 @@ header.sticky{
 	transition: all .40s ease;
 }
 .box p{
+	max-height: 35rem;
 	color: var(--second-color);
 	font-size: var(--p-font);
 	line-height: 30px;
+
 }
 .box:hover{
 	transform: scale(1.01) translateY(-5px);
